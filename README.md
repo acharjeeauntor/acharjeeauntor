@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acharjeeauntor&show_icons=true&locale=en&layout=compact" alt="acharjeeauntor" /></p>
 
-<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=acharjeeauntor&show_icons=true&locale=en" alt="acharjeeauntor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acharjeeauntor&show_icons=true&locale=en" alt="acharjeeauntor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acharjeeauntor&" alt="acharjeeauntor" /></p>
