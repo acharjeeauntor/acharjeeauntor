@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Test Automation Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-d99d0e0d22ae73f7d8f6e948fe1e7e44">
 
-- 🔭 I’m currently working on **Website Automation**
+- 🔭 I’m currently working on **Web & Mobile App Automation**
 
-- 🌱 I’m currently learning **Playwright,WebdriverIo,Typescript**
+- 🌱 I’m currently learning **Playwright,XCUITest,Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acharjeeauntor?tab=repositories](https://github.com/acharjeeauntor?tab=repositories)
 
