@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Web & Mobile App Automation**
 
-- 🌱 I’m currently learning **Playwright,WebdriverIO,XCUITest,Swift**
+- 🌱 I’m currently learning **Playwright,WebdriverIO,Katalon**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acharjeeauntor?tab=repositories](https://github.com/acharjeeauntor?tab=repositories)
 
 - 📝 I regularly write articles on [https://auntoracharja.medium.com/](https://auntoracharja.medium.com/)
 
-- 💬 Ask me about **Playwright, Selenium,Appium, Javascript**
+- 💬 Ask me about **Playwright, Selenium, Appium, Javascript**
 
 - 📫 How to reach me **acharjeeauntor@gmail.com**
 
